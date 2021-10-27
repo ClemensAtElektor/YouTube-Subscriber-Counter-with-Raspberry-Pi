@@ -1,0 +1,8 @@
+[Unit]
+Description=Elektor TV YouTube Subscriber Counter
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/youtube-subscriber.py > /home/pi/youtube-subscriber.log 2>&1
+
+[Install]
+WantedBy=default.target
