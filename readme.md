@@ -1,5 +1,5 @@
 # Raspberry Pi YouTube Subscriber Counter
-A [YouTube subscriber counter](https://youtu.be/PuCCMZFNgQE) built with a Raspberry Pi Zero W.
+A [YouTube subscriber counter](https://youtu.be/PuCCMZFNgQE) built with a Raspberry Pi Zero 2 W.
 
 Requires an 8-digit MAX7219-based 7-segment display. Also needs the [luma.led_matrix](https://github.com/rm-hull/luma.led_matrix) and httplib2 libraries.
 
